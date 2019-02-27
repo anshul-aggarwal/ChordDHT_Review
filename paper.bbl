@@ -1,0 +1,159 @@
+\begin{thebibliography}{10}
+
+\bibitem{Cassandra}
+\url{http://cassandra.apache.org/}.
+
+\bibitem{DynamoDB}
+\url{https://aws.amazon.com/dynamodb/}.
+
+\bibitem{vuze}
+\url{https://www.vuze.com/}.
+
+\bibitem{PlanetLab}
+\url{https://www.planet-lab.org/}.
+
+\bibitem{ChubbyBurrows}
+M.~Burrows.
+\newblock The chubby lock service for loosely-coupled distributed systems.
+\newblock In {\em Proceedings of the 7th Symposium on Operating Systems Design
+  and Implementation}, OSDI '06, pages 335--350, Berkeley, CA, USA, 2006.
+  USENIX Association.
+
+\bibitem{SplitStreamCastro}
+M.~Castro, P.~Druschel, A.-M. Kermarrec, A.~Nandi, A.~Rowstron, and A.~Singh.
+\newblock Splitstream: High-bandwidth content distribution in cooperative
+  environments.
+\newblock In {\em Peer-to-Peer Systems II}, pages 292--303, Berlin, Heidelberg,
+  2003. Springer Berlin Heidelberg.
+
+\bibitem{CFSDabek}
+F.~Dabek, M.~F. Kaashoek, D.~Karger, R.~Morris, and I.~Stoica.
+\newblock Wide-area cooperative storage with {CFS}.
+\newblock In {\em Proceedings of the Eighteenth ACM Symposium on Operating
+  Systems Principles}, SOSP '01, pages 202--215, New York, NY, USA, 2001. ACM.
+
+\bibitem{dabekp2p}
+F.~Dabek, B.~Zhao, P.~Druschel, J.~Kubiatowicz, and I.~Stoica.
+\newblock Towards a common {API} for structured peer-to-peer overlays.
+\newblock In {\em International Workshop on Peer-To-Peer Systems}, pages
+  33--44. Springer, 2003.
+
+\bibitem{geambasu2009vanish}
+R.~Geambasu, T.~Kohno, A.~A. Levy, and H.~M. Levy.
+\newblock Vanish: Increasing data privacy with self-destructing data.
+\newblock In {\em Proceedings of the 18th Conference on USENIX Security
+  Symposium}, SSYM'09, pages 299--316, Berkeley, CA, USA, 2009. USENIX
+  Association.
+
+\bibitem{CometGeambasu}
+R.~Geambasu, A.~A. Levy, T.~Kohno, A.~Krishnamurthy, and H.~M. Levy.
+\newblock Comet: An active distributed key-value store.
+\newblock In {\em Proceedings of the 9th USENIX Conference on Operating Systems
+  Design and Implementation}, OSDI'10, pages 323--336, Berkeley, CA, USA, 2010.
+  USENIX Association.
+
+\bibitem{ScatterGlendenning}
+L.~Glendenning, I.~Beschastnikh, A.~Krishnamurthy, and T.~Anderson.
+\newblock Scalable consistency in scatter.
+\newblock In {\em Proceedings of the Twenty-Third {ACM} Symposium on Operating
+  Systems Principles}, SOSP '11, pages 15--28, New York, NY, USA, 2011. ACM.
+
+\bibitem{PierHuebsch}
+R.~Huebsch, J.~M. Hellerstein, N.~Lanham, B.~T. Loo, S.~Shenker, and I.~Stoica.
+\newblock Querying the internet with {PIER}.
+\newblock In {\em Proceedings of the 29th International Conference on Very
+  Large Data Bases - Volume 29}, VLDB '03, pages 321--332. VLDB Endowment,
+  2003.
+
+\bibitem{ZooKeeperHunt}
+P.~Hunt, M.~Konar, F.~P. Junqueira, and B.~Reed.
+\newblock Zookeeper: Wait-free coordination for internet-scale systems.
+\newblock In {\em Proceedings of the 2010 USENIX Conference on USENIX Annual
+  Technical Conference}, USENIXATC'10, pages 11--11, Berkeley, CA, USA, 2010.
+  USENIX Association.
+
+\bibitem{LuaIerusalimschy}
+R.~Ierusalimschy, L.~H. de~Figueiredo, and W.~C. Filho.
+\newblock Lua - an extensible extension language.
+\newblock {\em Softw. Pract. Exper.}, 26(6):635--652, June 1996.
+
+\bibitem{PaxosLamport}
+L.~Lamport.
+\newblock The part-time parliament.
+\newblock {\em ACM Trans. Comput. Syst.}, 16(2):133--169, May 1998.
+
+\bibitem{IvyMuthitacharoen}
+A.~Muthitacharoen, R.~Morris, T.~M. Gil, and B.~Chen.
+\newblock Ivy: A read/write peer-to-peer file system.
+\newblock {\em SIGOPS Oper. Syst. Rev.}, 36(SI):31--44, Dec. 2002.
+
+\bibitem{PlanetLabPeterson}
+L.~Peterson, A.~Bavier, M.~E. Fiuczynski, and S.~Muir.
+\newblock Experiences building planetlab.
+\newblock In {\em Proceedings of the 7th Symposium on Operating Systems Design
+  and Implementation}, OSDI '06, pages 351--366, Berkeley, CA, USA, 2006.
+  USENIX Association.
+
+\bibitem{PHTRamabhadran}
+S.~Ramabhadran, S.~Ratnasamy, J.~M. Hellerstein, and S.~Shenker.
+\newblock Prefix hash tree: An indexing data structure over distributed hash
+  tables.
+\newblock 2004.
+
+\bibitem{OpenDHTRhea}
+S.~Rhea, B.~Godfrey, B.~Karp, J.~Kubiatowicz, S.~Ratnasamy, S.~Shenker,
+  I.~Stoica, and H.~Yu.
+\newblock {OpenDHT}: A public {DHT} service and its uses.
+\newblock In {\em Proceedings of the 2005 Conference on Applications,
+  Technologies, Architectures, and Protocols for Computer Communications},
+  SIGCOMM '05, pages 73--84, New York, NY, USA, 2005. ACM.
+
+\bibitem{PalimpsestRoscoe}
+T.~Roscoe and S.~Hand.
+\newblock Palimpsest: Soft-capacity storage for planetary-scale services.
+\newblock In {\em Proceedings of the 9th Conference on Hot Topics in Operating
+  Systems - Volume 9}, HOTOS'03, pages 22--22, Berkeley, CA, USA, 2003. USENIX
+  Association.
+
+\bibitem{PastryRowstron}
+A.~I.~T. Rowstron and P.~Druschel.
+\newblock Pastry: Scalable, decentralized object location, and routing for
+  large-scale peer-to-peer systems.
+\newblock In {\em Proceedings of the IFIP/ACM International Conference on
+  Distributed Systems Platforms Heidelberg}, Middleware '01, pages 329--350,
+  London, UK, UK, 2001. Springer-Verlag.
+
+\bibitem{RSMSchneider}
+F.~B. Schneider.
+\newblock Implementing fault-tolerant services using the state machine
+  approach: A tutorial.
+\newblock {\em ACM Comput. Surv.}, 22(4):299--319, Dec. 1990.
+
+\bibitem{IIIStoica}
+I.~Stoica, D.~Adkins, S.~Zhuang, S.~Shenker, and S.~Surana.
+\newblock Internet indirection infrastructure.
+\newblock {\em IEEE/ACM Transactions on Networking}, 12(2):205--218, April
+  2004.
+
+\bibitem{ChordStoica}
+I.~Stoica, R.~Morris, D.~Karger, M.~F. Kaashoek, and H.~Balakrishnan.
+\newblock Chord: A scalable peer-to-peer lookup service for internet
+  applications.
+\newblock In {\em Proceedings of the 2001 Conference on Applications,
+  Technologies, Architectures, and Protocols for Computer Communications},
+  SIGCOMM '01, pages 149--160, New York, NY, USA, 2001. ACM.
+
+\bibitem{DHTWehrle}
+K.~Wehrle, S.~G{\"o}tz, and S.~Rieche.
+\newblock 7. distributed hash tables.
+\newblock In {\em Peer-to-Peer Systems and Applications}, pages 79--93, Berlin,
+  Heidelberg, 2005. Springer Berlin Heidelberg.
+
+\bibitem{TapestryZhao}
+B.~Y. Zhao, L.~Huang, J.~Stribling, S.~C. Rhea, A.~D. Joseph, and J.~D.
+  Kubiatowicz.
+\newblock Tapestry: a resilient global-scale overlay for service deployment.
+\newblock {\em IEEE Journal on Selected Areas in Communications}, 22(1):41--53,
+  Jan 2004.
+
+\end{thebibliography}
